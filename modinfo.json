@@ -1,0 +1,7 @@
+{
+    "Name": "tiktokfailsound",
+    "ID": "tiktokfailsound",
+    "Version": "1.0.0",
+    "Description": "Replaces the fail sound with the TikTok ending sound",
+    "Dependencies": []
+}
